@@ -9,11 +9,12 @@ It requires ISE FW 2.8.0 / 3.1.0 or higher.
 
 Features supported:
 
-Create/delete volume
-Initialize/Terminate connection
-Create/delete snapshot from volume
-Create volume from volume (clone)
-Extend volume
-Retype
-Manage existing volume
-Unmanage
+	Create/delete volume
+	Initialize/Terminate connection
+	Create/delete snapshot from volume
+	Create volume from volume (clone)
+	Extend volume
+	Retype
+	Manage existing volume
+	Unmanage
+
